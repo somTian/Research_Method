@@ -1,9 +1,5 @@
-<<<<<<< HEAD
 ![homeban](img/homeban.jpg)
 =======
-![homeban](./img/homeban.jpg)
->>>>>>> dc57e0d4be00bf7c44501c6b3aae71aa5ce59b62
-
 ### 说明
 
 这是Bangor University 2007年[School of Sport Health & Exercise Sciences](http://www.bangor.ac.uk/shes/)的教学讲义，大家可以在[这里](http://pages.bangor.ac.uk/~pes004/resmeth/frontpage.htm)查看原课程的讲义
@@ -32,10 +28,4 @@
 ### 致歉
 
 因为本人英文水平有限，有些话翻译得可能很别扭，有能力的话建议大家去看原网址。
-<<<<<<< HEAD
 
-
-
-$y = f(x^2)$
-=======
->>>>>>> dc57e0d4be00bf7c44501c6b3aae71aa5ce59b62
