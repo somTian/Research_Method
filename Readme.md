@@ -1,4 +1,4 @@
-![homeban](img\homeban.jpg)
+![homeban](./img/homeban.jpg)
 
 ### 说明
 
